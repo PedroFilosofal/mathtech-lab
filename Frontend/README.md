@@ -1,0 +1,1 @@
+# Pasta da interface gráfica
